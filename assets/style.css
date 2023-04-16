@@ -282,6 +282,12 @@ footer ul li a:hover {
         padding: 15px;
     }
 
+    .about-me img {
+        max-width: 120px;
+        min-width: 120px;
+        align-self: center;
+    }
+
     .my-work {
         flex-direction: column;
         padding-top: 30px
