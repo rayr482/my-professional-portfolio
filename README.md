@@ -8,8 +8,7 @@ Despite how much fun I had making this, I recognize how important it is for peop
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/128929611/231952874-094f1ea0-35b3-4791-b929-eb7d62005d88.png)
-![image](https://user-images.githubusercontent.com/128929611/231952721-e40cc49d-321a-4bc6-adc9-656fd18285db.png)
-![image](https://user-images.githubusercontent.com/128929611/231952741-8490e2c8-5a1a-42b1-a841-c626f691a8e5.png)
+![image](https://github.com/rayr482/my-professional-portfolio/assets/128929611/88287e1a-2353-4c24-83ab-ef2741a25bfb)
 
 ## Link to Deployed Application
 
